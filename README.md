@@ -1,6 +1,6 @@
 # Hello!👋
 
-## ♦️I'm Chioma
+## ❤️I'm Chioma
 
 - 💻 I'm a Data Anaylst student.
 - 📚 I’m currently learning Data Analsis in Dahel Techies.
